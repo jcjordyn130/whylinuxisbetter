@@ -10,8 +10,7 @@
 
 <p>Looks pretty normal to you? Well, you're probably used to this by now, but isn't it a bit of a mess? And it gets worse the more you install software.</p>
 
-<p>All installable pieces of software for Linux come with information on what kind of software they contain, so that the user (that would be you!) doesn't need to do anything to keep applications neatly sorted into categories:</p>
-
+<p>In Ubuntu you can search what you want to run in something called the dash.</p>
 <img src="Images/categories_menu.png">
 
 </div>
